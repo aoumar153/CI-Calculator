@@ -15,4 +15,3 @@ class TestCalculatorApp:
 
     def test_division(self):
         assert 2 == calculator.division(10,5)
-        
